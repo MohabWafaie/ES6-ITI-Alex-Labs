@@ -1,0 +1,23 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohabWafaie/ES6-ITI-Alex-Labs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohabWafaie/ES6-ITI-Alex-Labs/issues"
+  },
+  "homepage": "https://github.com/MohabWafaie/ES6-ITI-Alex-Labs#readme",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
